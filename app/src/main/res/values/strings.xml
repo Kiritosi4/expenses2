@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">expenses2</string>
+
+    <string-array name="time_filters">
+        <item>Сегодня</item>
+        <item>Эта неделя</item>
+        <item>Этот месяц</item>
+        <item>Все расходы</item>
+    </string-array>
+
+    <string-array name="expense_categories">
+        <item>Без категории</item>
+        <item>Еда</item>
+        <item>Транспорт</item>
+        <item>Развлечения</item>
+        <item>Здоровье</item>
+        <item>Одежда</item>
+        <item>Прочее</item>
+    </string-array>
+</resources>
